@@ -1,0 +1,23 @@
+        body {
+            background-color: navajowhite;
+        }
+
+        hr {
+            background-color: navajowhite;
+            border-style: none;
+            border-top-style: dotted;
+            border-color: grey;
+            border-width: 5px;
+            height: 0px;
+            width: 80%
+        }
+
+        h1 {
+            color: #A19882;
+        }
+        h2 {
+            color: #A19882;
+        }
+        h3 {
+            color: #A19882;
+        }
